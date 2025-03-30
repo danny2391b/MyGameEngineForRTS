@@ -1,10 +1,10 @@
-#My 3D Game Engine
+**#My 3D Game Engine**
 A simple 3D game engine built from scratch to learn the fundamentals of graphics, physics, and game development.
 
-📝 Introduction
+**Introduction**
 Welcome to the repository for my 3D game engine! This engine is being developed as a personal project to learn how 3D rendering, physics, and game development work from the ground up. The goal of this project is to create a simple, extensible 3D engine with a focus on performance and flexibility.
 
-💡 Features
+**Features**
 To Do:
 3D Rendering: Render basic 3D objects (e.g., cubes, spheres, and models).
 
@@ -24,7 +24,7 @@ AI integration for basic enemy pathfinding.
 
 Sound and music integration.
 
-⚙️ Usage
+**Usage**
 Once you have the engine set up, you can use the following features:
 
 Camera Controls: Use WASD to move the camera or the mouse to look around.
@@ -33,7 +33,7 @@ Object Manipulation: Press the space bar to load a test model.
 
 Shadows: Shadows will be automatically enabled if the light source is positioned properly.
 
-🛠️ Roadmap
+**Roadmap**
 Planned Features:
 More advanced lighting effects (Point, Spot, and Area lights).
 
@@ -50,13 +50,10 @@ Add more collision types (sphere, box, etc.).
 
 Implement audio (sound effects and background music).
 
-💬 Contributing
+**Contributing**
 If you would like to contribute to this project, feel free to open issues or submit pull requests. I'm always looking for feedback and suggestions to improve the engine.
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-👨‍💻 Author
+**Author**
 Daniel Mullins
 
 GitHub: @danny2391b
